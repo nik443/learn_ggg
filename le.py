@@ -1,3 +1,3 @@
 print(1)
 
-print(33)
+print(30000)
